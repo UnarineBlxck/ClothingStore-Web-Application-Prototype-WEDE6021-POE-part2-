@@ -8,10 +8,11 @@ The system allows users to register, log in, and be verified by an administrator
 ---
 
 ## 👨‍💻 Developer Information
-- Student Name: *[Your Name Here]*
-- Student Number: *[Your Student Number]*
+- Student Name 1: Unarine Muthivhi
+- Student Name 2: Siaruli Precious Sedzani
+- Student Number: *st10455111*
+-  Student Number: * *
 - Module: WEDE6021
-- Institution: *[Your Institution]*
 
 ---
 
